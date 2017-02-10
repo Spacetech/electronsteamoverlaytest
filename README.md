@@ -1,7 +1,7 @@
 # electronsteamoverlaytest
 Test if the Steam Overlay works in Electron.
 
-This will only work on Windows (probably on Windows 8 and up) due to the requirement of in-process-gpu command line switch.
+This will only work on Windows 8 and up due to the requirement of the *in-process-gpu* chromium command line switch.
 
 Test Instructions:
 
